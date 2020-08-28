@@ -1,0 +1,232 @@
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cbccd4162e4986fa9ffc56e6e27b7c0afd75b1f3"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "578bf922d26031a8710e114263c2c52438f9c6ef6a484e4983a28589d0f0c25e"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7092d5b5547134d5d6f826dc56cdfab21ad81795"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "d5d5fac4446854ac667030b18d0d08f7b2cd0f7fdcf8eae53de33493d447aa3b"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e9401543ef26a86058a5ddd309e97ac5437b1af4"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "7cdd0b4cf4b7efd08c2d9c82d1360d64952734c459aa9e1088f13c25a141865b"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.aarch64-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b4c4c1d3aed1017f24497c9c78eafc46af1a4db"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "ec6e6fcd5db40a2a75f480a66822201505da8bcbc080e103f58e69f3fe498dfb"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.aarch64-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a4ac41285c6fcf3c3f13cd4d4cac4eba96c93ea1"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "a445358893a4503851dcf133edf163772579214a8b635af3ce5d1bfe3292084f"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c474d44b11ccb2d4ee73ab8a7ce187ac6f42803d"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "7d5398251e5d72847012c362d056a58ee56fd477a996529670fda4d580a5908f"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a6bbea0c451b256663f46cdfa60f266de3c91e7"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "2c5f371222f18a6c79fff82cc123611a57fbe4998ecc4a6ec4d9fd4582add42d"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35e745ad0e9135e4df64ffa44effde87780436f2"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "99655b4093e4b8a90297a3a36db3071f528257608551389dc62a1727872f0aea"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fd60e080ff1a8eb3705e7023605f3e7cf0feed89"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "bfd6c2fc5f0e58a55cf7c23ac1a066de454488020f29755bfc963a65ab180845"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.i686-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3021bb4d09c004fc741cb960e249f4bbdcbfdd35"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "889c25dd9576fa586f5d11a518ba76b52d0f9d53912a28afbc63c60491373df8"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.i686-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "01a2734023582edbc608e665e0cce3f7d86a4a6f"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "6bbb8ba033759b41de1b81a6e9946292bb77cc5275e5b6621c5d7598be868414"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.i686-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ff96cc95608c5efc6c81d4687c5dca39eb542c4"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "884bf3eae467451b227177b798a8ce5ae524e36cfc69941ba43b0204da125f99"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.i686-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4916c01f7fbe3cf06877d4879fdb2ab6967424f4"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "645564fe1a9320c3f829ac640bfdc42e7dea5aedd85ee1cfa834953a9fabdd60"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.i686-w64-mingw32-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "030002ad3740f125bf71143027758d21f4c33d0c"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "d7d02d2b8e02273bff88533cb90bdbef28b52f7d8284d7e0c75ff58f662870ae"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.i686-w64-mingw32-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7b324a7f253ba9cd4462547170b5b781d3107cd6"
+os = "macos"
+
+    [[CoolProp.download]]
+    sha256 = "17b407679b20f067fbe477014f9b52d3feef36c3be2793cbf6d6db62b2422f2a"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-apple-darwin14-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aee4406992116e7e4883e7ff720b3df526d6c059"
+os = "macos"
+
+    [[CoolProp.download]]
+    sha256 = "eaa32f96f812d08970a178c28d19149dcf2d149522fe17f3ea7a48299f026326"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-apple-darwin14-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c59d739de1c74d920f6f0f708ce3615bbcfbcd6"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "394e6d0e5dff0aefff39fc4c0726456fa6649a0c0707b8d527614d9d3f773163"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27a3d5dff695a98f29ede108b547d255bea20944"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "187d7f076c00a6664453554dcaaaeee990f9ca4ad29c8074b8b3adc4ce27b909"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1d5cb8067c1a5435b34f48ff79dfa4e328e3714"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "d060cf9108bf997877ecc395e3b533a5a7aee35eaa84ddd947040a71e2cb1d4f"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "881da3d3299334f190c84bdcd558f3d007bf81e9"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "66317795148bc70cd97c1b8fc72a4b93e8dea743c924a4b2a08e52e144aa3ed6"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b17abc8ff7383c09a28f4028e4ea922fdf8d0be"
+os = "freebsd"
+
+    [[CoolProp.download]]
+    sha256 = "c1737e92e66df400e515c6bfa9088fa850a4d0f01810c78e0f5685592f4be006"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21660766540f3d8f04203a5fb86b86cd1c8f18fc"
+os = "freebsd"
+
+    [[CoolProp.download]]
+    sha256 = "2fa274e1d8bd251874ace61073e9e51ff1debcff501610e40887c0d48374cdce"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9c1f393910f4176ce124d68b820f3d5dce86cf7f"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "ada6877e936d9460a1af19373ade937d1e58d06a5c6a81d89696fb894e2c72f4"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bcddc300cd7d9c7ae26091bd7d0ce8486fd04f14"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "ffde75526e801043e393327b90bf869a4a14d4ca3373f6628c03e815c62a67ed"
+    url = "https://github.com/barche/CoolProp_jll.jl/releases/download/CoolProp-v6.4.1+0/CoolProp.v6.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
